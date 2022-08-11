@@ -1,0 +1,7 @@
+.header__links-list {
+    display: flex;
+    align-items: flex-end;
+    column-gap: 18px;
+    grid-column: -1/-2;
+    justify-self: end;
+}
