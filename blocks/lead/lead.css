@@ -4,6 +4,7 @@
     grid-template-columns: 984px;
     grid-template-rows: 256px 104px 1fr 22px;
     justify-content: center;
+    max-width: 1600px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1278px) {
