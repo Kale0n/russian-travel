@@ -27,6 +27,9 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__container-paragraph/place__container-paragraph.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__container-link/footer__container-link.css);
 @import url(../blocks/footer/__link/footer__link.css);
