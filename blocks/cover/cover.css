@@ -20,7 +20,7 @@
     left: 0;
     bottom: 0;
     right: 0;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
     background-color: #2A2C2F;
     opacity: .8;
     transition: opacity .4s ease;
