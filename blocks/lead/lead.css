@@ -21,7 +21,7 @@
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
     .lead{
        grid-template-columns: 100%;
        grid-template-rows: 136px 56px 1fr 22px;

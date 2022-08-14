@@ -4,6 +4,7 @@
     flex-direction: column;
     justify-content: end;
     row-gap: 12px;
+    flex-wrap: wrap;
 }
 
 @media screen and (max-width:425px) {
