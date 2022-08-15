@@ -1,6 +1,5 @@
 .header__lang-link{
     max-width: 30px;
-    max-height: 28px;
     color: white;
     margin: 0 0 6px;
     padding: 0;
@@ -18,7 +17,6 @@
     .header__lang-link{
     margin-bottom: 8px;
     max-width: 22px;
-    max-height: 20px;
     font-size: 18px;
     line-height: 20px;
     }    
