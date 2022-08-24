@@ -5,6 +5,11 @@ margin: 0;
 width: 176px;
 height: 52px;
 grid-column: 1/2;
+transition: opacity .4s ease;
+}
+
+.header__logo:hover {
+ opacity: .8;
 }
 
 @media screen and (max-width: 320px) {

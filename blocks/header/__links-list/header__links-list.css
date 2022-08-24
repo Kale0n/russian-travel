@@ -4,4 +4,6 @@
     column-gap: 18px;
     grid-column: -1/-2;
     justify-self: end;
+    list-style-type: none;
+    padding: 0;
 }

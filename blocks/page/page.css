@@ -1,21 +1,3 @@
-@font-face {
-    font-family: 'Inter';
-    font-style: normal;
-    src: url(../../vendor/fonts/Inter/static/Inter-Regular.ttf);
-}
-
-@font-face {
-    font-family: 'Inter';
-    font-weight: bold;
-    src: url(../../vendor/fonts/Inter/static/Inter-Bold.ttf);
-}
-
-@font-face {
-    font-family: 'Inter';
-    font-weight: 900;
-    src: url(../../vendor/fonts/Inter/static/Inter-Black.ttf);
-}
-
 .page {
  margin: 0 auto;
  font-family: 'Inter';

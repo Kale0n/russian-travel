@@ -1,6 +1,6 @@
 .intro{
     margin: 0 auto;
-    max-width: 1600px;
+    max-width: 1280px;
     display: grid;
     grid-template-columns: 984px;
     grid-template-rows: 58px 248px 123px;
@@ -14,7 +14,7 @@
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
     .intro{
        grid-template-columns: minmax(min-content, max-content);
        padding-top: 88px;
@@ -25,10 +25,8 @@
 
 @media screen and (max-width: 767px) {
     .intro{
-        grid-template-columns: minmax(min-content, max-content);
         grid-template-rows: 70px 1fr 124px;
         padding-top: 64px;
         margin: 0 16px 0;
-        justify-content: start;
     }
 }
